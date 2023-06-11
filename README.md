@@ -1,4 +1,3 @@
-# ToDoList_ReduxReact
 1.It is a TO DO LIST made with redux and react using typescript.
 2.The project has 2 entries {to do item and date }.
 3.The "Add task" buttom will display the task along with date.
